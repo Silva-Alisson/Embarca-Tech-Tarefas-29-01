@@ -48,5 +48,5 @@ O controle da temporização é feito com `add_alarm_in_ms()`, utilizando callba
 - O sistema aguardará o ciclo ser concluído antes de permitir um novo acionamento.
 
 ## Demonstração
-Confira o vídeo explicativo neste link: [Vídeo no Google Drive](https://drive.google.com/file/d/1w5WSy9XkPhuAusy14a8Ck-q5Mhl9h2uJ/view?usp=sharing)
+Confira o vídeo explicativo neste link: [Vídeo no Google Drive](https://drive.google.com/file/d/1dhfBON9x2L55a3DeaMSivAd5tV9ht414/view?usp=drive_link)
 
